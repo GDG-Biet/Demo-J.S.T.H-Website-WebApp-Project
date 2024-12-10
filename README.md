@@ -9,92 +9,36 @@ Demo-J.S.T.H-Website-WebApp-Project/
 │
 ├── .mvn/
 │   └── wrapper/
-│       └── 
-
-maven-wrapper.properties
-
-
+│       └── maven-wrapper.properties
 ├── .vscode/
-│   └── 
-
-settings.json
-
-
+│   └── settings.json
 ├── src/
 │   ├── main/
 │   │   ├── java/
 │   │   │   └── com/example/demo/
 │   │   │       ├── controller/
-│   │   │       │   └── 
-
-DemoController.java
-
-
+│   │   │       │   └── DemoController.java
 │   │   │       ├── model/
-│   │   │       │   └── 
-
-DemoModel.java
-
-
+│   │   │       │   └── DemoModel.java
 │   │   │       ├── repository/
-│   │   │       │   └── 
-
-DemoRepository.java
-
-
+│   │   │       │   └── DemoRepository.java
 │   │   │       ├── service/
-│   │   │       │   └── 
-
-DemoService.java
-
-
-│   │   │       └── 
-
-DemoApplication.java
-
-
+│   │   │       │   └── DemoService.java
+│   │   │       └── DemoApplication.java
 │   │   ��── resources/
 │   │   │   ├── static/
 │   │   │   │   └── css/
-│   │   │   │       └── 
-
-styles.css
-
-
+│   │   │   │       └── styles.css
 │   │   │   ├── templates/
-│   │   │   │   ├── 
-
-about.html
-
-
-│   │   │   │   ├── 
-
-index.html
-
-
-│   │   │   │   ├── 
-
-login.html
-
-
-│   │   ��   │   └── 
-
-signup.html
-
-
-│   │   │   └── 
-
-application.properties
-
-
+│   │   │   │   ├── about.html
+│   │   │   │   ├── index.html
+│   │   │   │   ├── login.html
+│   │   ��   │   └── signup.html
+│   │   │   └── application.properties
 │   └── test/
 │       └── java/
 │           └── com/example/demo/
-│               └── 
-
-DemoApplicationTests.java
-
-
+│               └── DemoApplicationTests.java
 ├── target/
 │   ├── classes/
 │   ├── generated-sources/
@@ -103,39 +47,15 @@ DemoApplicationTests.java
 │   ├── maven-status/
 │   ├── surefire-reports/
 │   ├── test-classes/
-│   ├── 
-
-demo-0.0.1-SNAPSHOT.jar
-
-
-│   └── 
-
-demo-0.0.1-SNAPSHOT.jar.original
-
-
+│   ├── demo-0.0.1-SNAPSHOT.jar
+│   └── demo-0.0.1-SNAPSHOT.jar.original
 ├── .gitattributes
 ├── .gitignore
-├── 
-
-HELP.md
-
-
+├── HELP.md
 ├── mvnw
-├── 
-
-mvnw.cmd
-
-
-├── 
-
-pom.xml
-
-
-└── 
-
-README.md
-
-
+├── mvnw.cmd
+├── pom.xml
+└── README.md
 ```
 
 ## Spring Boot Application: `DemoApplication.java`
