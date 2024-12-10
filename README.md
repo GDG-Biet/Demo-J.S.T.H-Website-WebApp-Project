@@ -33,7 +33,7 @@ Demo-J.S.T.H-Website-WebApp-Project/
 │   │   │   │   ├── about.html
 │   │   │   │   ├── index.html
 │   │   │   │   ├── login.html
-│   │   ��   │   └── signup.html
+│   │   �� │   └── signup.html
 │   │   │   └── application.properties
 │   └── test/
 │       └── java/
